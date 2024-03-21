@@ -1,0 +1,24 @@
+.example-card{
+    position: absolute;
+    top: 50px;
+  
+  margin: 10%;
+    width: 300px;   }
+    .example-card1{
+        position: absolute;
+        top: 50px;
+      left: 350px;
+      margin: 10%;
+        width: 300px;   }
+        .example-card2{
+            position: absolute;
+            top: 50px;
+          left: 700px;
+          margin: 10%;
+            width: 300px;   }
+            h1{
+                position: absolute;
+                top :5px;
+                margin: 5%;
+                color: antiquewhite;
+            }

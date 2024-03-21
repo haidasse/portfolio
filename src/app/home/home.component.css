@@ -1,0 +1,29 @@
+
+.titel{
+    position: absolute;
+    top:15%;
+    font-size:60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(238, 250, 184);
+}
+
+.image{ width: auto; 
+   height: 300px;
+
+   position: relative; 
+   top: 4%; left: 75%; 
+ }
+ .br{
+    height: 300px;
+    color: antiquewhite;
+    font-size: 15px;
+    font-family:  Helvetica, sans-serif;
+ }
+ .cont{
+    height: 300px;
+    width: 900px;
+ }
+ .h1{
+    font-size: 30px;
+    color: rgb(5, 235, 24);
+ }

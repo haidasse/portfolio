@@ -1,0 +1,19 @@
+.mat-toolbar{
+    background-color: cornflowerblue;
+    color: white;
+  }
+  .mat-button{
+     color: white;
+  }
+  .spacer{
+    flex: 1 1 auto;
+  }
+
+  .navbar {
+    position: fixed; /* Fixed position */
+    top:0%; /* Position at the top of the viewport */
+    width: 100%; /* Full width */
+  
+ /* Padding */
+    z-index: 1000; /* Ensure it's above other content */
+  }
