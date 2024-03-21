@@ -5,7 +5,7 @@ import { RouterLink } from '@angular/router';
 @Component({
   selector: 'app-navbar',
   standalone: true,
-  imports: [MatToolbarModule, MatButtonModule,RouterLink], // Fix the import statement
+  imports: [MatToolbarModule, MatButtonModule,RouterLink] ,// Fix the import statement
   templateUrl: './navbar.component.html',
   styleUrl: './navbar.component.css'
 })
